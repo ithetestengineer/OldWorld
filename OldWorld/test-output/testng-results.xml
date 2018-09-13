@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-23T09:55:22Z" name="Suite" finished-at="2018-08-23T09:55:47Z" duration-ms="25673">
+    <groups>
+    </groups>
+    <test started-at="2018-08-23T09:55:22Z" name="Login into EAPP" finished-at="2018-08-23T09:55:47Z" duration-ms="25673">
+      <class name="tests.EAPPTest">
+        <test-method is-config="true" signature="launchEApp()[pri:0, instance:tests.EAPPTest@672872e1]" started-at="2018-08-23T09:55:22Z" name="launchEApp" finished-at="2018-08-23T09:55:34Z" duration-ms="12221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchEApp -->
+        <test-method signature="navigateEApp()[pri:0, instance:tests.EAPPTest@672872e1]" started-at="2018-08-23T09:55:34Z" name="navigateEApp" finished-at="2018-08-23T09:55:47Z" duration-ms="13434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateEApp -->
+      </class> <!-- tests.EAPPTest -->
+    </test> <!-- Login into EAPP -->
+  </suite> <!-- Suite -->
+</testng-results>
